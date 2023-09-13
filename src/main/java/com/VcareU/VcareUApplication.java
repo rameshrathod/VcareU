@@ -11,7 +11,7 @@ public class VcareUApplication {
 
 	@GetMapping("/get/name")
 	public String getName(){
-		return "Ramesh Rathod";
+		return "Ramesh Rathod b";
 	}
 
 	public static void main(String[] args) {
